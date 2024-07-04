@@ -7,6 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulaija&label=Profile%20views&color=0e75b6&style=flat" alt="saiful" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/saiful](https://saifulislam-portfolio-pro.vercel.app/)
+- :computer: I'm a Fullstack Developer, currently exploring AWS
+- :hourglass_flowing_sand: Exploring Google Cloud
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- 🤔 I’m looking for a job
+
 
 - ⚡ Fun fact **I once built a fully functional web app over a weekend just for fun!**
 
