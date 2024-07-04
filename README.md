@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiful&label=Profile%20views&color=0e75b6&style=flat" alt="saiful" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulaija&label=Profile%20views&color=0e75b6&style=flat" alt="saiful" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/saiful](https://saifulislam-portfolio-pro.vercel.app/)
 
@@ -43,8 +43,8 @@ Exciting full stack development projects, open source contributions in React, Ne
 ### Last Commit
 <!-- LAST_COMMIT -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiful&show_icons=true&locale=en&layout=compact" alt="saiful" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifulaija&show_icons=true&locale=en&layout=compact&langs_count=10" alt="saiful" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiful&show_icons=true&locale=en" alt="saiful" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifulaija&show_icons=true&locale=en" alt="saiful" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiful&" alt="saiful" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulaija&" alt="saiful" /></p>
