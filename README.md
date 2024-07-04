@@ -45,6 +45,6 @@ Exciting full stack development projects, open source contributions in React, Ne
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifulaija&show_icons=true&locale=en&layout=compact&langs_count=10" alt="saiful" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifulaija&show_icons=true&locale=en" alt="saiful" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulaija&" alt="saiful" /></p>
