@@ -47,7 +47,8 @@ Exciting full stack development projects, open source contributions in React, Ne
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </p>
 
-### Last Commit
+
+
 <!-- LAST_COMMIT -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifulaija&show_icons=true&locale=en&layout=compact&langs_count=10" alt="saiful" /></p>
@@ -55,3 +56,6 @@ Exciting full stack development projects, open source contributions in React, Ne
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulaija&" alt="saiful" /></p>
+
+### Last Commit
+![GitHub last commit](https://img.shields.io/github/last-commit/<saifulaija>/<repository>)
