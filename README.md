@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/8zV0QHP/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png)
+![logo](https://i.ibb.co/wSCq248/github.png)
 <h1 align="center">Hi 👋, I'm Saiful</h1>
 <h3 align="center">A passionate Fullstack Developer from Bangladesh</h3>
 
