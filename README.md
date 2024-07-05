@@ -57,5 +57,9 @@ Exciting full stack development projects, open source contributions in React, Ne
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulaija&" alt="saiful" /></p>
 
+
+
+
 ### Last Commit
-![GitHub last commit](https://img.shields.io/github/last-commit/<saifulaija>/<repository>)
+![GitHub last commit](https://img.shields.io/github/last-commit/saifulaija/repository-name)
+
