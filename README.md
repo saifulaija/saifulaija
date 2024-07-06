@@ -60,6 +60,6 @@ Exciting full stack development projects, open source contributions in React, Ne
 
 
 ### Last Commit
-![GitHub last commit](https://img.shields.io/github/last-commit/saifulaija/blog-shadcn-client)
+![GitHub last commit](https://img.shields.io/github/last-commit/saifulaija/fullstack-portfolio)
 
 
